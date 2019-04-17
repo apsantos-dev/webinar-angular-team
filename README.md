@@ -55,3 +55,19 @@ Canal do Will Grasel:
 ## Using Angular in Visual Studio Code
 
 > https://code.visualstudio.com/docs/nodejs/angular-tutorial?wt.mc_id=webinar-youtube-event-gllemos
+
+## Criar e executar um aplicativo Web com a pilha MEAN em uma máquina virtual do Linux no Azure
+
+> https://docs.microsoft.com/pt-br/learn/modules/build-a-web-app-with-mean-on-a-linux-vm/?WT.mc_id=webinar-youtube-gllemos
+
+## Estruturas de dados e algoritmos com JavaScript - 2ª edição:
+
+> https://novatec.com.br/livros/estruturas-de-dados-algoritmos-em-javascript-2ed/
+
+## Curso online Do Front ao End - CollabCode:
+
+> https://dofrontaoend.collabcode.training/
+
+## Cursos Balta.io:
+
+> https://balta.io/cursos
