@@ -53,6 +53,8 @@ O objetivo deste repositório é compartilhar um pouco do que aconteceu no live.
 
 > **[Material Angular](https://material.angular.io/)**
 
+> **[MDN Web Docs](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)**
+
 > **[Nova plataforma de Cursos Gratuitos da MS. Entrem agora e conheçam](http://bit.ly/ms-learning-gratuito)**
 
 ---
