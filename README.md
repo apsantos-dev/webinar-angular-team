@@ -23,6 +23,8 @@ O objetivo deste repositório é compartilhar um pouco do que aconteceu no live.
 
 > **[Canal Glaucia Lemos](https://www.youtube.com/user/l32759)**
 
+> **[Canal Loiane Groner](https://www.youtube.com/user/Loianeg)**
+
 > **[Criar e executar um aplicativo Web com a pilha MEAN em uma máquina virtual do Linux no Azure](https://docs.microsoft.com/pt-br/learn/modules/build-a-web-app-with-mean-on-a-linux-vm/?WT.mc_id=webinar-youtube-gllemos)**
 
 > **[Curso online Do Front ao End - CollabCode](https://dofrontaoend.collabcode.training/)**
@@ -43,14 +45,13 @@ O objetivo deste repositório é compartilhar um pouco do que aconteceu no live.
 
 > **[Google Develper Experts](https://developers.google.com/programs/experts/)**
 
-
----
-
-> **[Loiane Groner](https://www.youtube.com/user/Loianeg)**
-
 ---
 
 > **[Nova plataforma de Cursos Gratuitos da MS. Entrem agora e conheçam](http://bit.ly/ms-learning-gratuito)**
+
+---
+
+> **[Pacotes do VS Code Loiane](https://marketplace.visualstudio.com/publishers/loiane?wt.mc_id=webinar-youtube-event-gllemos)**
 
 ---
 
