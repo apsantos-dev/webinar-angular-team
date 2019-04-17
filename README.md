@@ -6,68 +6,40 @@ O objetivo deste repositório é compartilhar um pouco do que aconteceu no live.
 
 ---
 
-## Palestrantes
+## Conheça:
 
-Canal do Balta:
+> **[Canal do Balta](https://www.youtube.com/channel/UCgnACLvM9O5lfm9ZBh_d3cg)**
 
-> https://www.youtube.com/channel/UCgnACLvM9O5lfm9ZBh_d3cg
+> **[Canal Glaucia Lemos](https://www.youtube.com/user/l32759)**
 
-Canal Glaucia Lemos:
+> **[Loiane Groner](https://www.youtube.com/user/Loianeg)**
 
-> https://www.youtube.com/user/l32759
+> **[Canal do CollabCode:](https://www.youtube.com/channel/UCVheRLgrk7bOAByaQ0IVolg)**
 
-Loiane Groner
+> **[Canal do CollabCode:](https://www.youtube.com/channel/UCVheRLgrk7bOAByaQ0IVolg)**
 
-> https://www.youtube.com/user/Loianeg
+> **[Canal do Will Grasel](https://www.youtube.com/user/sbalucard)**
 
-Canal do CollabCode:
+> **[AngularSP](https://www.meetup.com/pt-BR/AngularJS-Sao-Paulo/)**
 
-> https://www.youtube.com/channel/UCVheRLgrk7bOAByaQ0IVolg
+> **[Discord](https://discord.gg/YeeEAYj)**
 
-Canal do Will Grasel:
+> **[Google Develper Experts](https://developers.google.com/programs/experts/)**
 
-> https://www.youtube.com/user/sbalucard
+> **[Extensions for the Visual Studio family of products](https://marketplace.visualstudio.com/?WT.mc_id=webinar-youtube-gllemos)**
 
----
+> **[Using Angular in Visual Studio Code](https://code.visualstudio.com/docs/nodejs/angular-tutorial?wt.mc_id=webinar-youtube-event-gllemos)**
 
-## AngularSP
+> **[Criar e executar um aplicativo Web com a pilha MEAN em uma máquina virtual do Linux no Azure](https://docs.microsoft.com/pt-br/learn/modules/build-a-web-app-with-mean-on-a-linux-vm/?WT.mc_id=webinar-youtube-gllemos)**
 
-> https://www.meetup.com/pt-BR/AngularJS-Sao-Paulo/
+> **[Estruturas de dados e algoritmos com JavaScript - 2ª edição](https://novatec.com.br/livros/estruturas-de-dados-algoritmos-em-javascript-2ed/)**
 
----
+> **[Curso online Do Front ao End - CollabCode](https://dofrontaoend.collabcode.training/)**
 
-## Discord
+> **[Cursos Balta.io](https://balta.io/cursos)**
 
-> https://discord.gg/YeeEAYj
+> **[Baixem o VsCode](http://bit.ly/vscode-webinar)**
 
----
+> **[Nova plataforma de Cursos Gratuitos da MS. Entrem agora e conheçam](http://bit.ly/ms-learning-gratuito)**
 
-## Google Develper Experts
-
-> https://developers.google.com/programs/experts/
-
----
-
-## Extensions for the Visual Studio family of products
-
-> https://marketplace.visualstudio.com/?WT.mc_id=webinar-youtube-gllemos
-
-## Using Angular in Visual Studio Code
-
-> https://code.visualstudio.com/docs/nodejs/angular-tutorial?wt.mc_id=webinar-youtube-event-gllemos
-
-## Criar e executar um aplicativo Web com a pilha MEAN em uma máquina virtual do Linux no Azure
-
-> https://docs.microsoft.com/pt-br/learn/modules/build-a-web-app-with-mean-on-a-linux-vm/?WT.mc_id=webinar-youtube-gllemos
-
-## Estruturas de dados e algoritmos com JavaScript - 2ª edição:
-
-> https://novatec.com.br/livros/estruturas-de-dados-algoritmos-em-javascript-2ed/
-
-## Curso online Do Front ao End - CollabCode:
-
-> https://dofrontaoend.collabcode.training/
-
-## Cursos Balta.io:
-
-> https://balta.io/cursos
+> **[Using Angular in Visual Studio Code](https://code.visualstudio.com/docs/nodejs/angular-tutorial?wt.mc_id=webinar-youtube-event-gllemos)**
