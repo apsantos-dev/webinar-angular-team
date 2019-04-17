@@ -38,12 +38,20 @@ Canal do Will Grasel:
 
 ## Discord
 
-https://discord.gg/YeeEAYj
+> https://discord.gg/YeeEAYj
 
 ---
 
 ## Google Develper Experts
 
-https://developers.google.com/programs/experts/
+> https://developers.google.com/programs/experts/
 
 ---
+
+## Extensions for the Visual Studio family of products
+
+> https://marketplace.visualstudio.com/?WT.mc_id=webinar-youtube-gllemos
+
+## Using Angular in Visual Studio Code
+
+> https://code.visualstudio.com/docs/nodejs/angular-tutorial?wt.mc_id=webinar-youtube-event-gllemos
