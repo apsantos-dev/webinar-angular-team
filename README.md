@@ -33,9 +33,13 @@ O objetivo deste repositório é compartilhar um pouco do que aconteceu no live.
 
 ---
 
+> **[Dicas de Padrão redux](https://twitter.com/GustavoCostaW/status/1117609091852066816)**
+
 > **[Discord](https://discord.gg/YeeEAYj)**
 
 ---
+
+> **[Empresas grandes que usam angular: ](https://www.madewithangular.com/)**
 
 > **[Estruturas de dados e algoritmos com JavaScript - 2ª edição](https://novatec.com.br/livros/estruturas-de-dados-algoritmos-em-javascript-2ed/)**
 
@@ -46,6 +50,8 @@ O objetivo deste repositório é compartilhar um pouco do que aconteceu no live.
 > **[Google Develper Experts](https://developers.google.com/programs/experts/)**
 
 ---
+
+> **[Material Angular](https://material.angular.io/)**
 
 > **[Nova plataforma de Cursos Gratuitos da MS. Entrem agora e conheçam](http://bit.ly/ms-learning-gratuito)**
 
